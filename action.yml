@@ -1,4 +1,4 @@
-  name: "PR Review Apps on fly.io"
+name: "PR Review Apps on fly.io"
 description: "Deploy temporary apps from pull requests on Fly.io"
 author: Fly
 branding:
@@ -33,4 +33,3 @@ inputs:
     description: Set app VM memory (defaults to 256 megabytes)
   count:
     description: Set app VM count to the given value (defaults to 1)
-
